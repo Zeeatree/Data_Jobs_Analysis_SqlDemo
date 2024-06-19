@@ -5,7 +5,7 @@
 This is a small data analysis project about top-paying jobs, in-demand skills, and optimal skills to learn in the field of data analytics. My focus was on the role of 'Data Analyst', but same implementations can be applied to other roles such as 'Data Engineer', 'Data Scientist' and 'Business Analyst' as well.
 
 **SQL queries?** Check them out here: [project_sql_folder](/project_sql/)</br>
-**Python scripts and charts?** Check them out here: [project_sql_folder](/project_python/)
+**Python scripts and charts?** Check them out here: [project_python_folder](/project_python/)
 
 ## Background
 
